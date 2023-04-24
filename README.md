@@ -3,7 +3,7 @@ This is a Lord of the Rings themed Holocron created by Ryan The Cyber Hobbit.
 
 What is a Holocron?  A Holocron is a Star Wars ancient repository of knowledge and wisdom that can only be accessed by those skilled in the Force. In Star Wars, Jedi use them to record and preserve their teachings, creating a record for future generations seeking to understand the mysteries of the Force.
 
-This is a "What if" scenario where we imagine Sauron in the Star Wars universe and was a Sith Lord that created a Sith Holocron.
+This is a "What if" scenario where we imagine Sauron in the Star Wars universe as a Sith Lord that created a Holocron.
 
 This project was created with the help of this Thingiverse model, I used the "blank" option included: https://www.thingiverse.com/thing:3565057 
 
