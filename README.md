@@ -15,6 +15,8 @@ The printed the STL models at 175% scale.
 
 ### Things I Used
 * A Resin or FDM 3D Printer. I used a Saturn 2 (resin).
+* Elegoo 405nm Standard Resin Grey 1000g
+* Elegoo 405nm Standard Resin Clear Red 500g
 * [Arduino Nano](https://www.amazon.com/dp/B07G99NNXL)
 * [WS2812B LED Strip 60Pixels/M - 16.4 FT](https://www.amazon.com/dp/B01CDTEJBG)
 * [1000mAh Lipo Rechargeable Battery with JST Connector](https://www.amazon.com/dp/B07BTV3W87)
@@ -30,10 +32,14 @@ The printed the STL models at 175% scale.
 * [3 Watt 8 Ohm Speaker](https://www.amazon.com/dp/B07FTB281F)
 * Use a breadboard to test everything before you Solder
 * Plenty of Solder (70+ connections)
+* [Krylon Flat Black Spray Paint](https://www.amazon.com/Krylon-K05546007-COLORmaxx-Spray-Aerosol/dp/B07LFWTW93) 
+* [Krylon Flat Clear Coat](https://www.amazon.com/Krylon-K05547007-COLORmaxx-Spray-Aerosol/dp/B07LFWTQNG)
+* [Dupli-Color Metal Cast Red](https://www.amazon.com/dp/B000994BUM)
 * [Rub 'n Buff - Antique Gold](https://www.amazon.com/dp/B0BC224DPV)
+* Sand Paper (320, 600, 1000) grit
+* Hot Glue
+* Gorilla Super Glue Gel
 * [J-B Weld Plastic Bonder](https://www.amazon.com/dp/B01IBOK7FE)
-* Elegoo 405nm Standard Resin Grey 1000g
-* Elegoo 405nm Standard Resin Clear Red 500g
 
 ### Arduino Prerequisites
 * Some experience with [Arduino](https://www.arduino.cc/)
