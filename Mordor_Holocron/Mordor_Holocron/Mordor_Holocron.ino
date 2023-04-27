@@ -355,11 +355,6 @@ void modeFadeChaos(){
         fadeDir = -1;
         fadeIndex = fadeSteps-1;
         
-        fadeMinimum = ((int)random(20,80));
-        int randomForceMinimumZero = ((int)random(0,3));
-        if(randomForceMinimumZero<1){
-          fadeMinimum = 0;
-        }
       }
       
     }
@@ -451,8 +446,8 @@ void modeRain(){
 
 
 int curWaveIndex = 0;
-uint8_t waveSideBuffer = 7;
-uint8_t waveSize = 3;
+uint8_t waveSideBuffer = 15;
+uint8_t waveSize = 15;
 
 int waveColorFrom = 0;
 int waveColorTo = 20; //orange
@@ -463,21 +458,23 @@ int waveColorDir = 1;
 int waveColorRange = waveColorTo-waveColorFrom;
 int waveColorStep =  ((int)waveColorRange/waveColorSteps);
 
+int waveSpeed = 30;
+
 void modeWaveForward(){
   wave();
-  EVERY_N_MILLISECONDS(30){
+  EVERY_N_MILLISECONDS(waveSpeed){
     waveMoveForward(); 
   }
 }
 void modeWaveBackward(){
   wave();
-  EVERY_N_MILLISECONDS(30){
+  EVERY_N_MILLISECONDS(waveSpeed){
     waveMoveBackward();
   } 
 }
 void modeWaveChaos(){
   wave();
-  EVERY_N_MILLISECONDS(30){
+  EVERY_N_MILLISECONDS(waveSpeed){
     waveMoveChaos();
   } 
 }

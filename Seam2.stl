@@ -1,0 +1,142 @@
+solid "Wedge2"
+  facet normal 0 1 0
+    outer loop
+      vertex 91.7519989014 118.5 2.24799990654
+      vertex 89.2480010986 118.5 2.24799990654
+      vertex 90.5 -5.98500061035 2.24799990654
+    endloop
+  endfacet
+  facet normal 0 1 -0
+    outer loop
+      vertex 91.7519989014 118.5 2.24799990654
+      vertex 90.5 -5.98500061035 2.24799990654
+      vertex 91.7519989014 -5.98500061035 2.24799990654
+    endloop
+  endfacet
+  facet normal 0.707106590271 0.707106947899 -0
+    outer loop
+      vertex 91.7519989014 118.5 2.24799990654
+      vertex 91.7519989014 -5.98500061035 2.24799990654
+      vertex 92.8759994507 -5.98500061035 1.12399995327
+    endloop
+  endfacet
+  facet normal 0.707106590271 0.707106947899 -3.29272165089e-10
+    outer loop
+      vertex 94 118.5 -5.16580271892e-08
+      vertex 91.7519989014 118.5 2.24799990654
+      vertex 92.8759994507 -5.98500061035 1.12399995327
+    endloop
+  endfacet
+  facet normal 0.707106649876 0.707106947899 -0
+    outer loop
+      vertex 94 118.5 -5.16580271892e-08
+      vertex 92.8759994507 -5.98500061035 1.12399995327
+      vertex 94 -5.98500061035 -5.16580200838e-08
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex 94 118.5 -5.16580271892e-08
+      vertex 94 -5.98500061035 -5.16580200838e-08
+      vertex 90.5 -5.98500061035 -5.16580200838e-08
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex 87 118.5 -5.16580271892e-08
+      vertex 94 118.5 -5.16580271892e-08
+      vertex 90.5 -5.98500061035 -5.16580200838e-08
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex 87 118.5 -5.16580271892e-08
+      vertex 90.5 -5.98500061035 -5.16580200838e-08
+      vertex 87 -5.98500061035 -5.16580200838e-08
+    endloop
+  endfacet
+  facet normal -0.707106649876 0.707106947899 0
+    outer loop
+      vertex 87 118.5 -5.16580271892e-08
+      vertex 87 -5.98500061035 -5.16580200838e-08
+      vertex 88.1240005493 -5.98500061035 1.12399995327
+    endloop
+  endfacet
+  facet normal -0.707106590271 0.707106947899 -3.29272165089e-10
+    outer loop
+      vertex 89.2480010986 118.5 2.24799990654
+      vertex 87 118.5 -5.16580271892e-08
+      vertex 88.1240005493 -5.98500061035 1.12399995327
+    endloop
+  endfacet
+  facet normal -0.707106590271 0.707106947899 0
+    outer loop
+      vertex 89.2480010986 118.5 2.24799990654
+      vertex 88.1240005493 -5.98500061035 1.12399995327
+      vertex 89.2480010986 -5.98500061035 2.24799990654
+    endloop
+  endfacet
+  facet normal -0 1 0
+    outer loop
+      vertex 89.2480010986 -5.98500061035 2.24799990654
+      vertex 90.5 -5.98500061035 2.24799990654
+      vertex 89.2480010986 118.5 2.24799990654
+    endloop
+  endfacet
+  facet normal 0 -4.37113953922e-08 1
+    outer loop
+      vertex 90.5 -5.98500061035 2.24799990654
+      vertex 89.2480010986 -5.98500061035 2.24799990654
+      vertex 90.5 -5.98500061035 -5.16580200838e-08
+    endloop
+  endfacet
+  facet normal 0 -4.37113953922e-08 1
+    outer loop
+      vertex 90.5 -5.98500061035 2.24799990654
+      vertex 90.5 -5.98500061035 -5.16580200838e-08
+      vertex 91.7519989014 -5.98500061035 2.24799990654
+    endloop
+  endfacet
+  facet normal 1.97437302544e-15 -4.37113953922e-08 1
+    outer loop
+      vertex 91.7519989014 -5.98500061035 2.24799990654
+      vertex 90.5 -5.98500061035 -5.16580200838e-08
+      vertex 92.8759994507 -5.98500061035 1.12399995327
+    endloop
+  endfacet
+  facet normal 0 -4.37113918395e-08 1
+    outer loop
+      vertex 92.8759994507 -5.98500061035 1.12399995327
+      vertex 90.5 -5.98500061035 -5.16580200838e-08
+      vertex 94 -5.98500061035 -5.16580200838e-08
+    endloop
+  endfacet
+  facet normal -1.97437302544e-15 -4.37113953922e-08 1
+    outer loop
+      vertex 90.5 -5.98500061035 -5.16580200838e-08
+      vertex 89.2480010986 -5.98500061035 2.24799990654
+      vertex 88.1240005493 -5.98500061035 1.12399995327
+    endloop
+  endfacet
+  facet normal 0 -4.37113918395e-08 1
+    outer loop
+      vertex 90.5 -5.98500061035 -5.16580200838e-08
+      vertex 88.1240005493 -5.98500061035 1.12399995327
+      vertex 87 -5.98500061035 -5.16580200838e-08
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 87 118.5 -5.16580271892e-08
+      vertex 89.2480010986 118.5 2.24799990654
+      vertex 91.7519989014 118.5 2.24799990654
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 87 118.5 -5.16580271892e-08
+      vertex 91.7519989014 118.5 2.24799990654
+      vertex 94 118.5 -5.16580271892e-08
+    endloop
+  endfacet
+endsolid "Wedge2"
