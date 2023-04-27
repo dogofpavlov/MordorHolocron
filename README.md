@@ -51,7 +51,7 @@ If you alter the number of LEDs you use, be sure to change the code "NUM_LEDS" t
 
 
 ### Wiring Diagram
-![Wiring diagram](images/wiringdiagram.jpg)
+![Wiring diagram](images/wiringdiagramnew.jpg)
 
 ### Author
 Ryan "The Cyber Hobbit"
