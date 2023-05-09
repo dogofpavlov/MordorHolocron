@@ -9,8 +9,13 @@ This project was created with the help of this Thingiverse model, I used the "bl
 
 
 ### 3D Printing Directions
-I printed all the models with a resin printer (Saturn 2).
-The printed the STL models at 175% scale. 
+I printed the models with a resin printer (Saturn 2) and few parts with my Creality Ender 3 Pro
+
+
+### Build Video
+
+* [Watch on my youtube channel](https://www.youtube.com/watch?v=eRCXtB5M6yg)
+
 
 
 ### Things I Used
